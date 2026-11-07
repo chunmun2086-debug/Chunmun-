@@ -1,0 +1,6 @@
+{
+  "name": "GHAR SEVA - Trusted Home Services",
+  "description": "Book certified home service professionals for repair, installation, maintenance and cleaning across India with bilingual English and Hindi support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
